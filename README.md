@@ -1,5 +1,5 @@
 
-In this project, we looked into the several datasets from the Federal Election Commission(https://www.fec.gov/data/browse-data/?tab=bulk-data) including "All Candidates", "Candidate Master", "Committee Master", "Candidate-Committee Linkage", and "Contribution by Individuals". We only collected data in the period 2007-2008.
+In this project, we looked into the several large datasets (including from hundreds of thousand to millions of rows) from the Federal Election Commission(https://www.fec.gov/data/browse-data/?tab=bulk-data) including "All Candidates", "Candidate Master", "Committee Master", "Candidate-Committee Linkage", and "Contribution by Individuals". We only collected data in the period 2007-2008.
 
 A note before you download these datasets from the FEC: 
 "Anyone can inspect and copy reports and statements filed by political committees. But the names and addresses of individual contributors may not be sold or used for commercial purposes or to solicit contributions or donations."
